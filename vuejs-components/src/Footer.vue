@@ -6,5 +6,10 @@
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
+
+<style scoped>
+p {
+  color: red;
+}
+</style>
